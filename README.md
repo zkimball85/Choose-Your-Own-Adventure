@@ -1,2 +1,2 @@
 # Choose-Your-Own-Adventure
-A little game using if/elif/else with while and for loops
+A modular decision game I designed for my kids. 
